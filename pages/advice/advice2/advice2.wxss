@@ -1,0 +1,10 @@
+page{
+  background-image:url("https://daolunchuangxinzhantest.oss-cn-beijing.aliyuncs.com/boy2.png");
+  background-size: cover
+}
+
+.text{
+  margin-top:45%;
+  align-items: center;
+  justify-content: center;
+}

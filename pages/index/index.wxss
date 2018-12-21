@@ -1,0 +1,39 @@
+/**index.wxss**/
+page{
+  background-image:url("https://daolunchuangxinzhantest.oss-cn-beijing.aliyuncs.com/boy1.png");
+  background-size: cover
+}
+
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+.image {
+  margin-top: 70px;
+}
+
+.usermotto {
+   width: 100%;
+}
+.start{
+  width:60%;
+  border-radius: 80rpx;
+  background-color:rgba(30, 143, 255, 0.596);
+  color: white;
+}
+.high{
+  margin-top: 10px;
+}
+

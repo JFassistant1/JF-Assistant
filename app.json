@@ -1,0 +1,20 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/start/start",
+    
+    "pages/advice/advice1/advice1",
+    "pages/advice/advice2/advice2",
+    "pages/advice/advice3/advice3",
+    "pages/advice/advice4/advice4",
+    "pages/wifi_station/index/index",
+    "pages/wifi_station/tianqi/tianqi"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "JF Assistant",
+    "navigationBarTextStyle":"black"
+  }
+}

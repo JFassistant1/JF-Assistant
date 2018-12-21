@@ -1,0 +1,9 @@
+
+.containor{
+  margin-top: 10px;
+  background-image: url("https://daolunchuangxinzhantest.oss-cn-beijing.aliyuncs.com/girl.png");
+  background-size: cover
+}
+.picture{
+  margin-top: 20px;
+}

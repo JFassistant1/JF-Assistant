@@ -1,0 +1,4 @@
+page{
+  background-image:url("https://daolunchuangxinzhantest.oss-cn-beijing.aliyuncs.com/boy4.png");
+  background-size: cover
+}
